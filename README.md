@@ -23,8 +23,8 @@
 
 ### Languages & Skills  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=FF00FF&text_color=FFFFFF)  
-- **Most Used Language**:  
-  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/sumancpp)  
+
+---
 
 ### My Stats  
 | ⭐ **Total Stars Earned** | 💾 **Total Commits** | 📅 **Last Year Contributions** |
