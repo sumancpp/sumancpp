@@ -24,7 +24,6 @@ Connect with me and let’s geek out together!
 ---
 
 ## 📊 GitHub Stats  
-## 📊 My GitHub Stats  
 
 ### Languages & Skills  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=FF00FF&text_color=FFFFFF)  
@@ -39,7 +38,6 @@ Connect with me and let’s geek out together!
 
 
 ---
-
 
 
 <!--
