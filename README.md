@@ -26,7 +26,7 @@ Connect with me and let’s geek out together!
 ## 📊 GitHub Stats  
 ![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumancpp&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=radical&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumancpp&theme=radical&hide_border=true)  
+![Streak](https://github-readme-streak-stats.sumancpp-web.com/?user=sumancpp&theme=radical&hide_border=true)  
 
 ---
 
