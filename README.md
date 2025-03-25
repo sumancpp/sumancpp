@@ -1,4 +1,5 @@
 ## 💫 About Me  
+
 👋 Hey there! I’m a **BTech CSE student** diving into the world of tech with a passion for crafting **responsive web applications** and mastering **C++**.  
 🌱 I’m leveling up my problem-solving skills by tackling **Data Structures and Algorithms** in C++.  
 👯 I’d love to team up on **open-source web dev** or **DSA projects**—bring it on!  
@@ -17,7 +18,7 @@ Connect with me and let’s geek out together!
 
 ## 🛠️ Skills  
 💻 **Languages**: C++, JavaScript, HTML, CSS  
-🧰 **Tools**: Git, VS Code, Linux  
+🧰 **Tools**: Git, GitHub, VS Code, Linux, Windows  
 🌐 **Concepts**: DSA, Web Development, Responsive Design  
 
 ---
