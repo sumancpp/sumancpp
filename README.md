@@ -1,17 +1,14 @@
 ## 💫 About Me  
 
-👋 Hey there! I’m a **BTech CSE student** diving into the world of tech with a passion for crafting **responsive web applications** and mastering **C++**.  
-🌱 I’m leveling up my problem-solving skills by tackling **Data Structures and Algorithms** in C++.  
-👯 I’d love to team up on **open-source web dev** or **DSA projects**—bring it on!  
-🤔 Seeking tips on **optimizing algorithms** and diving deeper into **advanced C++ techniques**.  
-💬 Chat with me about **web development**, **JavaScript**, or **DSA basics**—I’m all ears!  
+👋 Hey there! I’m a **BTech CSE student** diving into the world of tech with a passion for crafting **responsive web applications** and mastering **C++**. I’m leveling up my problem-solving skills by tackling **Data Structures and Algorithms** in C++. I’d love to team up on **open-source web dev** or **DSA projects**—bring it on! Seeking tips on **optimizing algorithms** and diving deeper into **advanced C++ techniques**.Chat with me about **web development**, **JavaScript**, or **DSA basics**—I’m all ears!  \
+
 📫 Drop me a line: **[sumancoder404@gmail.com](mailto:sumancoder404@gmail.com)**  
+
 ⚡ *Fun fact*: I can whip up a binary search faster than I can hunt down my misplaced keys!  
 
 ---
 
-## 🌐 Socials  
-Connect with me and let’s geek out together!  
+## 🌐 Socials   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-maity-b84879292/)   
 
 ---
