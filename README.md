@@ -36,10 +36,7 @@ Connect with me and let’s geek out together!
 |---------------------------|----------------------|-------------------------------|
 | [![Stars: 1](https://img.shields.io/badge/Stars-1-FFD700?style=for-the-badge)](https://github.com/sumancpp?tab=stars) | [![Commits: 56](https://img.shields.io/badge/Commits-56-00FF00?style=for-the-badge)](https://github.com/sumancpp) | [![Contributions: 7](https://img.shields.io/badge/Contributions-7-FF4500?style=for-the-badge)](https://github.com/sumancpp) |
 
-### Activity  
-![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumancpp&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumancpp&theme=radical&hide_border=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=radical&hide_border=true)  
+
 
 ---
 
