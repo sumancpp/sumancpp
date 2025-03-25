@@ -29,7 +29,7 @@
 ### My Stats  
 | ⭐ **Total Stars Earned** | 💾 **Total Commits** | 📅 **Last Year Contributions** |
 |---------------------------|----------------------|-------------------------------|
-| [![Stars: 1](https://img.shields.io/badge/Stars-1-FFD700?style=for-the-badge)](https://github.com/sumancpp?tab=stars) | [![Commits: 123](https://img.shields.io/badge/Commits-56-00FF00?style=for-the-badge)](https://github.com/sumancpp) | [![Contributions: 37](https://img.shields.io/badge/Contributions-7-FF4500?style=for-the-badge)](https://github.com/sumancpp) |
+| [![Stars: 1](https://img.shields.io/badge/Stars-1-FFD700?style=for-the-badge)](https://github.com/sumancpp?tab=stars) | [![Commits: 123](https://img.shields.io/badge/Commits-123-00FF00?style=for-the-badge)](https://github.com/sumancpp) | [![Contributions: 37](https://img.shields.io/badge/Contributions-37-FF4500?style=for-the-badge)](https://github.com/sumancpp) |
 
 
 
