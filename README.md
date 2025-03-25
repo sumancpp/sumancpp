@@ -7,7 +7,7 @@
 ⚡ Fun fact: I can code a binary search faster than I can find my keys!
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-maity-b84879292/)
+[![LinkedIn](https://img.shields.io/badge-text/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-maity-b84879292/)
 
 ## 📊 GitHub Stats:
 
