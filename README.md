@@ -3,6 +3,7 @@
 👋 I'm a BTech CSE student, currently working on building responsive web applications and sharpening my C++ skills. I’m currently learning Data Structures and Algorithms in C++ to level up my problem-solving game, looking to collaborate on open-source web development or DSA projects, also looking for help with optimizing algorithms and advanced C++ techniques. Ask me about web development, JavaScript, or basic DSA concepts!
 
 📫 How to reach me: sumancoder404@gmail.com
+
 ⚡ Fun fact: I can code a binary search faster than I can find my keys!
 
 ## 📊 GitHub Stats:
