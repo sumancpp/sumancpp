@@ -5,8 +5,7 @@
 👯 I’m looking to collaborate on open-source web development or DSA projects.
 🤔 I’m looking for help with optimizing algorithms and advanced C++ techniques.
 💬 Ask me about web development, JavaScript, or basic DSA concepts!
-📫 How to reach me: [your email or Twitter/LinkedIn handle]
-😄 Pronouns: [your pronouns, e.g., he/him, she/her, they/them]
+📫 How to reach me: sumancoder404@gmail.com
 ⚡ Fun fact: I can code a binary search faster than I can find my keys!
 
 ## 📊 GitHub Stats:
