@@ -13,7 +13,7 @@
 
 
 ## 🛠️ Skills  
-💻 **Languages**: C++, JavaScript, HTML, CSS, React
+💻 **Languages**: C++, JavaScript, HTML, CSS
 🧰 **Tools**: Git, GitHub, VS Code, Linux, Windows  
 🌐 **Concepts**: DSA, Web Development, Responsive Design  
 
