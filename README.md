@@ -1,6 +1,6 @@
 ## 💫 About Me  
 
-👋 Hey there! I’m a **BTech CSE student** diving into the world of tech with a passion for crafting **responsive web applications** and mastering **C++**. I’m leveling up my problem-solving skills by tackling **Data Structures and Algorithms** in C++. I’d love to team up on **open-source web dev** or **DSA projects**—bring it on! Seeking tips on **optimizing algorithms** and diving deeper into **advanced C++ techniques**.Chat with me about **web development**, **JavaScript**, or **DSA basics**—I’m all ears! 
+👋 Hey there! I’m a **BTech CSE student** diving into the world of tech with a passion for crafting **responsive web applications** and mastering **C++ & JAVA**. I’m leveling up my problem-solving skills by tackling **Data Structures and Algorithms** in C++ & Java. I’d love to team up on **open-source web dev** or **DSA projects**—bring it on! Seeking tips on **optimizing algorithms** and diving deeper into **advanced C++ & Java techniques**.Chat with me about **web development**, **JavaScript**, **React** or **DSA basics**—I’m all ears! 
 
 📫 Drop me a line: **[sumancoder404@gmail.com](mailto:sumancoder404@gmail.com)**  
 
