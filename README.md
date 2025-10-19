@@ -64,8 +64,8 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 
   <!-- 💾 Commits -->
   <a href="https://github.com/sumancpp">
-    <img src="https://custom-icon-badges.demolab.com/github/commits-since/sumancpp/main?logo=commit&color=00FF00&label=Commits&style=for-the-badge" alt="Commits" width="190" height="50"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumancpp&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true" width="500" />
+</a>
 
   <!-- 📅 Contributions -->
   <a href="https://github.com/sumancpp">
