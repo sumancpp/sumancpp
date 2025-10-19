@@ -57,14 +57,19 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 ## 🏆 GitHub Achievements  
 
 <p align="center">
+  <!-- ⭐ Stars -->
   <a href="https://github.com/sumancpp?tab=stars">
-    <img src="https://img.shields.io/badge/⭐_Stars-8-FFD700?style=for-the-badge" alt="Stars" width="140" height="50"/>
+    <img src="https://custom-icon-badges.demolab.com/github/stars/sumancpp?logo=star&color=FFD700&label=Stars&style=for-the-badge" alt="Stars" width="170" height="50"/>
   </a>
+
+  <!-- 💾 Commits -->
   <a href="https://github.com/sumancpp">
-    <img src="https://img.shields.io/badge/💾_Commits-312-00FF00?style=for-the-badge" alt="Commits" width="190" height="50"/>
+    <img src="https://custom-icon-badges.demolab.com/github/commits-since/sumancpp/main?logo=commit&color=00FF00&label=Commits&style=for-the-badge" alt="Commits" width="190" height="50"/>
   </a>
+
+  <!-- 📅 Contributions -->
   <a href="https://github.com/sumancpp">
-    <img src="https://img.shields.io/badge/📅_Contributions-1-FF4500?style=for-the-badge" alt="Contributions" width="220" height="50"/>
+    <img src="https://komarev.com/ghpvc/?username=sumancpp&label=Contributions&color=FF4500&style=for-the-badge" alt="Contributions" width="220" height="50"/>
   </a>
 </p>
 
