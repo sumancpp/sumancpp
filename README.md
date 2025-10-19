@@ -58,7 +58,7 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 
 <p align="center">
   <a href="https://github.com/sumancpp?tab=stars">
-    <img src="https://img.shields.io/badge/⭐_Stars-8-FFD700?style=for-the-badge" alt="Stars" width="170" height="50"/>
+    <img src="https://img.shields.io/badge/⭐_Stars-8-FFD700?style=for-the-badge" alt="Stars" width="150" height="50"/>
   </a>
   <a href="https://github.com/sumancpp">
     <img src="https://img.shields.io/badge/💾_Commits-312-00FF00?style=for-the-badge" alt="Commits" width="190" height="50"/>
