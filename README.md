@@ -62,14 +62,10 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
     <img src="https://custom-icon-badges.demolab.com/github/stars/sumancpp?logo=star&color=FFD700&label=Stars&style=for-the-badge" alt="Stars" width="170" height="50"/>
   </a>
 
-  <!-- GitHub Stats -->
+  <!-- Total Commits (Shields.io) -->
   <a href="https://github.com/sumancpp">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=blue-green&hide_border=true&langs_count=6&title_color=FF00FF&text_color=FFFFFF&card_width=500" 
-    width="450" 
-    alt="Top Languages"
-  />
-</a>
+    <img src="https://img.shields.io/github/commit-activity/y/sumancpp/sumancpp?label=Commits&logo=github&style=for-the-badge&color=00FF00" alt="Commits Badge" width="190" height="50"/>
+  </a>
 
   <!-- Contributions -->
   <a href="https://github.com/sumancpp">
