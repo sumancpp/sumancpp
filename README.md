@@ -64,7 +64,7 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 
   <!-- 💾 Commits -->
   <a href="https://github.com/sumancpp">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumancpp&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumancpp&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true" width="400" />
 </a>
 
   <!-- 📅 Contributions -->
