@@ -64,19 +64,18 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 
   <!-- GitHub Stats -->
   <a href="https://github.com/sumancpp">
-    <img src="https://github-readme-stats.vercel.app/api?username=sumancpp&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true" width="450" alt="GitHub Stats"/>
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=blue-green&hide_border=true&langs_count=6&title_color=FF00FF&text_color=FFFFFF&card_width=500" 
+    width="450" 
+    alt="Top Languages"
+  />
+</a>
 
   <!-- Contributions -->
   <a href="https://github.com/sumancpp">
     <img src="https://komarev.com/ghpvc/?username=sumancpp&label=Contributions&color=FF4500&style=for-the-badge" alt="Contributions" width="220" height="50"/>
   </a>
 </p>
-
-<!-- Top Languages -->
-<a href="https://github.com/sumancpp">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=FF00FF&text_color=FFFFFF&card_width=500" width="450" alt="Top Languages"/>
-</a>
 
 ---
 
