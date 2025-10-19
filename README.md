@@ -64,7 +64,7 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 
   <!-- Total Commits (Shields.io) -->
   <a href="https://github.com/sumancpp">
-    <img src="https://img.shields.io/github/commit-activity/y/sumancpp/sumancpp?label=Commits&logo=github&style=for-the-badge&color=00FF00" alt="Commits Badge" width="210" height="50"/>
+    <img src="https://img.shields.io/github/commit-activity/y/sumancpp/sumancpp?label=Commits&logo=github&style=for-the-badge&color=00FF00" alt="Commits Badge" width="230" height="50"/>
   </a>
 
   <!-- Contributions -->
