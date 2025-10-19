@@ -1,39 +1,73 @@
-## 💫 About Me  
+<!-- Header -->
+<h1 align="center">💫 Hey, I'm <span style="color:#FF00FF;">Suman Maity</span> 👋</h1>
 
-👋 Hey there! I’m a **BTech CSE student** diving into the world of tech with a passion for crafting **responsive web applications** and mastering **C++ & Java**. I’m leveling up my problem-solving skills by tackling **Data Structures and Algorithms** in C++ & Java. I’d love to team up on **open-source web dev** or **DSA projects**—bring it on! Seeking tips on **optimizing algorithms** and diving deeper into **advanced C++ & Java techniques**.Chat with me about **web development**, **JavaScript**, **React** or **DSA basics**—I’m all ears! 
+<p align="center">
+🎓 <b>BTech CSE Student</b> | 💻 <b>Full-Stack Learner</b> | ⚙️ <b>DSA Explorer</b>  
+</p>
 
-📫 Drop me a line: **[sumancoder404@gmail.com](mailto:sumancoder404@gmail.com)**  
-
-⚡ *Fun fact*: I can whip up a binary search faster than I can hunt down my misplaced keys!  
+<p align="center">
+I’m passionate about crafting <b>responsive web applications</b>, solving <b>data structure & algorithm</b> challenges, and exploring <b>modern C++ & Java</b> techniques.
+</p>
 
 ---
 
-## 🌐 Socials   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-maity-b84879292/)   
+## 🚀 About Me  
 
+- 🌱 Currently mastering **C++** & **Java**, while building projects using **React** and **JavaScript**.  
+- 💡 Interested in **Web Development**, **Algorithm Optimization**, and **Clean Code Architecture**.  
+- 🤝 Open to collaborating on **Open-Source Web Dev** and **DSA Projects**.  
+- 📚 Exploring **Advanced C++ STL**, **Java OOP Patterns**, and **Backend Fundamentals**.  
+- 💬 Chat with me about **React**, **JavaScript**, **DSA**, or **Web Performance Optimization**.  
+
+📫 **Reach me at:** [sumancoder404@gmail.com](mailto:sumancoder404@gmail.com)  
+
+⚡ *Fun fact*: I can whip up a binary search faster than I can find my misplaced keys!  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suman-maity-b84879292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sumancoder404@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## 🛠️ Skills  
-💻 **Languages**: C++, JavaScript, HTML, CSS, React  
-🧰 **Tools**: Git, GitHub, VS Code, Linux, Windows  
-🌐 **Concepts**: DSA, Web Development, Responsive Design  
+
+| 💻 **Languages** | ⚙️ **Tools** | 🌐 **Concepts** |
+|------------------|--------------|----------------|
+| C++, JavaScript, HTML, CSS, React | Git, GitHub, VS Code, Linux, Windows | DSA, Web Development, Responsive Design |
 
 ---
 
 ## 📊 GitHub Stats  
 
-### Languages & Skills  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=FF00FF&text_color=FFFFFF)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages" width="48%">
+</p>
 
 ---
 
-### My Stats  
-| ⭐ **Total Stars Earned** | 💾 **Total Commits** | 📅 **Last Year Contributions** |
-|---------------------------|----------------------|-------------------------------|
-| [![Stars: 8](https://img.shields.io/badge/Stars-8-FFD700?style=for-the-badge)](https://github.com/sumancpp?tab=stars) | [![Commits: 312](https://img.shields.io/badge/Commits-312-00FF00?style=for-the-badge)](https://github.com/sumancpp) | [![Contributions: 1](https://img.shields.io/badge/Contributions-1-FF4500?style=for-the-badge)](https://github.com/sumancpp) |
+## 🏆 GitHub Achievements  
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐_Stars-8-FFD700?style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/badge/💾_Commits-312-00FF00?style=for-the-badge" alt="Commits"/>
+  <img src="https://img.shields.io/badge/📅_Contributions-1-FF4500?style=for-the-badge" alt="Contributions"/>
+</p>
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumancpp&theme=radical&hide_border=true" width="80%"/>
+</p>
 
+---
 
+<h3 align="center">✨ "Keep building, keep learning, keep growing!" ✨</h3>
