@@ -56,7 +56,7 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 
 ## 🏆 GitHub Achievements  
 
-<p align="center">
+<p align="center" width="60%">
   <img src="https://img.shields.io/badge/⭐_Stars-8-FFD700?style=for-the-badge" alt="Stars"/>
   <img src="https://img.shields.io/badge/💾_Commits-312-00FF00?style=for-the-badge" alt="Commits"/>
   <img src="https://img.shields.io/badge/📅_Contributions-1-FF4500?style=for-the-badge" alt="Contributions"/>
