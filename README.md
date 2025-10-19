@@ -57,17 +57,14 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <!-- ⭐ Stars -->
   <a href="https://github.com/sumancpp?tab=stars">
     <img src="https://custom-icon-badges.demolab.com/github/stars/sumancpp?logo=star&color=FFD700&label=Stars&style=for-the-badge" alt="Stars" width="170" height="50"/>
   </a>
 
-  <!-- 💾 Commits -->
   <a href="https://github.com/sumancpp">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumancpp&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true" width="400" />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api?username=sumancpp&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true" width="450"/>
+  </a>
 
-  <!-- 📅 Contributions -->
   <a href="https://github.com/sumancpp">
     <img src="https://komarev.com/ghpvc/?username=sumancpp&label=Contributions&color=FF4500&style=for-the-badge" alt="Contributions" width="220" height="50"/>
   </a>
