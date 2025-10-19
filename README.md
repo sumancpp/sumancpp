@@ -42,7 +42,7 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 
 | 💻 **Languages** | ⚙️ **Tools** | 🌐 **Concepts** |
 |------------------|--------------|----------------|
-| C++, JavaScript, HTML, CSS, React | Git, GitHub, VS Code, Linux, Windows | DSA, Web Development, Responsive Design |
+| C++, JavaScript, HTML, CSS, ReactJs | Git, GitHub, VS Code, Linux, Windows | DSA, Web Development, Responsive Design |
 
 ---
 
