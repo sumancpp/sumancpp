@@ -75,10 +75,4 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sumancpp&theme=radical&hide_border=true" width="80%" />
-</div>
-
----
-
 <h3 align="center">✨ "Keep building, keep learning, keep growing!" ✨</h3>
