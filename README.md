@@ -75,9 +75,9 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumancpp&theme=radical&hide_border=true" width="80%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumancpp&theme=radical&hide_border=true" width="80%" />
+</div>
 
 ---
 
