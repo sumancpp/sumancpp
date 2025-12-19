@@ -40,9 +40,12 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 
 ## 🛠️ Skills  
 
-| 💻 **Languages** | ⚙️ **Tools** | 🌐 **Concepts** |
-|------------------|--------------|----------------|
-| C, C++, Java, JavaScript, HTML, CSS, ReactJs | Git, GitHub, VS Code, Linux, Windows | DSA, Web Development, Responsive Design |
+💻 Languages
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> </p>
+⚙️ Tools
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/> </p>
+🌐 Concepts
+<p> <img src="https://img.shields.io/badge/DSA-Algorithm-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Web%20Development-Full%20Stack-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Responsive%20Design-Mobile--Friendly-orange?style=for-the-badge"/> </p>
 
 ---
 
