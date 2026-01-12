@@ -52,7 +52,7 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400" width="50%" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400" width="50%](https://metrics.lecoq.io/sumancpp?template=classic&languages=1)" />
 </p>
 
 ---
