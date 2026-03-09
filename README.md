@@ -59,7 +59,7 @@ I’m passionate about crafting <b>responsive web applications</b>, solving <b>d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" width="45" height="45"/>
 </p>
 🌐 Concepts
 <p> <img src="https://img.shields.io/badge/DSA-Algorithm-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Web%20Development-Full%20Stack-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Responsive%20Design-Mobile--Friendly-orange?style=for-the-badge"/> </p>
