@@ -19,7 +19,7 @@ Passionate about building <b>responsive web applications</b>, solving <b>DSA pro
 - 📚 Exploring **Advanced STL**, **Java OOP**, and **Node.js Backend**
 - 💬 Ask me about **React**, **JavaScript**, **C++**, or **DSA**
 
-📫 **Reach me at:** **sumancoder404@gmail.com**
+📫 **Reach me at:** **sumaan.maity@gmail.com**
 
 ⚡ *Fun fact:* I can write binary search faster than I can find my keys 😆
 
