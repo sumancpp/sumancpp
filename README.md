@@ -1,95 +1,167 @@
 <!-- Header -->
+
 <h1 align="center">💫 Hey, I'm <span style="color:#FF00FF;">Suman Maity</span> 👋</h1>
 
 <p align="center">
-🎓 <b>B.Tech CSE Student</b> | 💻 <b>Full-Stack Developer</b> | ⚙️ <b>DSA Explorer</b>
+  🎓 <b>Final-Year B.Tech CSE Student</b> |
+  💻 <b>Full-Stack Developer</b> |
+  🤖 <b>AI Application Builder</b>
 </p>
 
 <p align="center">
-Passionate about building <b>responsive web applications</b>, solving <b>DSA problems</b>, and exploring <b>modern C++ & Java</b>.
+  I build <b>scalable web applications</b>, <b>AI-powered solutions</b>, and
+  <b>real-time systems</b> using modern technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/sumancpp">
+    <img src="https://img.shields.io/badge/GitHub-sumancpp-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/suman-maity-b84879292/">
+    <img src="https://img.shields.io/badge/LinkedIn-Suman%20Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:suuman.maity@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **C++**, **Java**, **React**, and **JavaScript**
-- 💡 Interested in **Web Development**, **Backend Engineering**, and **Problem Solving**
-- 🤝 Open to collaborating on **Open Source**, **Web Projects**, and **DSA Projects**
-- 📚 Exploring **Advanced STL**, **Java OOP**, and **Node.js Backend**
-- 💬 Ask me about **React**, **JavaScript**, **C++**, or **DSA**
-
-📫 **Reach me at:** **sumaan.maity@gmail.com**
-
-⚡ *Fun fact:* I can write binary search faster than I can find my keys 😆
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/suman-maity-b84879292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:sumancoder404@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+* 🎓 Final-year **B.Tech Computer Science & Engineering** student
+* 📊 Current **SGPA: 7.64 / 10.00** (Till 6th Semester)
+* 💻 Focused on **Full-Stack Development, Backend Engineering & Java**
+* 🤖 Interested in **Generative AI and AI-powered applications**
+* ⚡ Experienced with **real-time systems, WebRTC and Socket.IO**
+* 🧠 Passionate about **Data Structures & Algorithms and problem solving**
+* 🏗️ Interested in **scalable backend architecture and system design**
+* 🌱 Continuously learning by building practical, production-oriented applications
+* 🤝 Open to **Full-Stack Developer, Java Developer and Software Engineer opportunities**
 
 ---
 
 ## 🛠️ Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</p>
+
+**Java • JavaScript (ES6+) • C++ • C**
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.simpleicons.org/tailwindcss" width="45"/>
 </p>
 
-### ⚙️ Tools
+**React.js • HTML5 • CSS3 • JavaScript • Tailwind CSS • Redux Toolkit • Responsive UI**
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+</p>
+
+**Node.js • Express.js • REST APIs • JWT Authentication • Socket.IO • Backend Architecture**
+
+### 🗄️ Database & Storage
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
+
+**MongoDB • Mongoose • Cloudinary**
+
+### 🤖 AI & Generative AI
+
+**Google Gemini API • Generative AI • Prompt Engineering • AI Integration • AI Summarization • AI Translation • AI Code Review • Sentiment Analysis**
+
+### 📡 Real-Time Technologies
+
+**Socket.IO • WebRTC • RTCPeerConnection • Audio/Video Calling • Screen Sharing • Real-Time Signaling • Collaborative Applications**
+
+### 🧰 Tools & Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
 </p>
 
-### 🌐 Concepts
-
-<p>
-  <img src="https://img.shields.io/badge/DSA-Algorithms-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web%20Development-Full%20Stack-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-Mobile--Friendly-orange?style=for-the-badge"/>
-</p>
+**Git • GitHub • Docker • VS Code • Linux • Postman • Monaco Editor • PDFKit • Cloudinary**
 
 ---
 
-## 🏆 GitHub Achievements
+## 🧠 Core Computer Science
 
 <p align="center">
-  <a href="https://github.com/sumancpp?tab=stars">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/sumancpp?logo=star&color=FFD700&label=Stars&style=for-the-badge" height="45"/>
-  </a>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-00897B?style=for-the-badge"/>
+</p>
 
-  <a href="https://github.com/sumancpp">
-    <img src="https://img.shields.io/github/commit-activity/y/sumancpp/sumancpp?label=Commits&logo=github&style=for-the-badge&color=00FF00" height="45"/>
-  </a>
+**DSA • OOP • DBMS • Operating Systems • Computer Networks • REST Architecture • Authentication • Real-Time Systems**
 
+---
+
+## 📚 Currently Learning
+
+* ☕ **Advanced Java & Object-Oriented Programming**
+* 🧠 **Data Structures & Algorithms**
+* ⚙️ **Advanced Backend Development**
+* 🏗️ **System Design & Scalable Architecture**
+* 🤖 **Generative AI & AI Application Development**
+* 🐳 **Docker & Application Deployment**
+* 🔐 **Backend Security & Authentication**
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm currently open to opportunities where I can contribute to real-world software while continuing to grow as an engineer.
+
+**Interested in:**
+
+`Full-Stack Development` • `Java Development` • `Backend Engineering` • `Software Engineering` • `AI Applications`
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://github.com/sumancpp">
-    <img src="https://komarev.com/ghpvc/?username=sumancpp&label=Profile%20Views&color=FF4500&style=for-the-badge" height="45"/>
+    <img src="https://img.shields.io/badge/GitHub-sumancpp-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/suman-maity-b84879292/">
+    <img src="https://img.shields.io/badge/LinkedIn-Suman%20Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:suuman.maity@gmail.com">
+    <img src="https://img.shields.io/badge/Email-suuman.maity%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Keep Building • Keep Learning • Keep Growing ✨</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumancpp&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<h3 align="center">✨ Build • Learn • Solve • Improve ✨</h3>
+
+<p align="center">
+  <i>Turning ideas into software and continuously improving as an engineer.</i>
+</p>
