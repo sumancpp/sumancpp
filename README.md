@@ -5,7 +5,7 @@
 <p align="center">
   🎓 <b>Final-Year B.Tech CSE Student</b> |
   💻 <b>Full-Stack Developer</b> |
-  🤖 <b>AI Application Builder</b>
+  🤖 <b>Software Developer</b>
 </p>
 
 <p align="center">
