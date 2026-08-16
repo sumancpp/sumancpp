@@ -1,155 +1,402 @@
-<!-- Header -->
+<div align="center">
 
-<h1 align="center">💫 Hey, I'm <span style="color:#FF00FF;">Suman Maity</span> 👋</h1>
+# `SUMAN MAITY`
 
-<p align="center">
-  🎓 <b>Final-Year B.Tech CSE Student</b> |
-  💻 <b>Full-Stack Developer</b> |
-  🤖 <b>Software Developer</b>
-</p>
+### Full-Stack Developer · Software Developer
 
-<p align="center">
-  I build <b>scalable web applications</b>, <b>AI-powered solutions</b>, and
-  <b>real-time systems</b> using modern technologies.
-</p>
+Building **scalable web applications, backend systems & real-time products.**
 
----
+<br/>
 
-## 🚀 About Me
+<a href="https://github.com/sumancpp">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/suman-maity-b84879292/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:suuman.maity@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-* 🎓 Final-year **B.Tech Computer Science & Engineering** student
-* 📊 Current **SGPA: 7.64 / 10.00** (Till 6th Semester)
-* 💻 Focused on **Full-Stack Development, Backend Engineering & Java**
-* 🤖 Interested in **Generative AI and AI-powered applications**
-* ⚡ Experienced with **real-time systems, WebRTC and Socket.IO**
-* 🧠 Passionate about **Data Structures & Algorithms and problem solving**
-* 🏗️ Interested in **scalable backend architecture and system design**
-* 🌱 Continuously learning by building practical, production-oriented applications
-* 🤝 Open to **Full-Stack Developer, Java Developer and Software Engineer opportunities**
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sumancpp&label=PROFILE+VIEWS&style=flat-square&color=0A66C2"/>
+
+</div>
 
 ---
 
-## 🛠️ Skills
+<div align="center">
 
-### 💻 Programming Languages
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Developer;Java+Developer;Real-Time+Application+Builder;Software+Developer"/>
+
+</div>
+
+---
+
+## `01` — PROFILE
+
+I'm a **Final-Year B.Tech Computer Science & Engineering student** focused on building practical and production-oriented software.
+
+My primary focus is **Full-Stack Development, Backend Engineering, Java, real-time systems and scalable application architecture**.
+
+I enjoy turning ideas into complete products — from **system design and APIs to frontend interfaces, authentication, real-time communication and deployment**.
+
+<table>
+<tr>
+
+<td width="50%">
+
+**EDUCATION**
+
+B.Tech — Computer Science & Engineering
+
+**SGPA:** 7.64 / 10.00
+Till 6th Semester
+
+</td>
+
+<td width="50%">
+
+**CURRENT FOCUS**
+
+→ Full-Stack Development
+→ Backend Engineering
+→ Java Development
+→ System Design
+→ Data Structures & Algorithms
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `02` — TECH STACK
+
+### Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=java,js,cpp,c"/>
 </p>
 
-**Java • JavaScript (ES6+) • C++ • C**
+`Java` · `JavaScript` · `C++` · `C`
 
-### 🎨 Frontend Development
+### Frontend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="45"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,redux"/>
 </p>
 
-**React.js • HTML5 • CSS3 • JavaScript • Tailwind CSS • Redux Toolkit • Responsive UI**
+`React.js` · `HTML5` · `CSS3` · `Tailwind CSS` · `Redux Toolkit`
 
-### ⚙️ Backend Development
+### Backend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-**Node.js • Express.js • REST APIs • JWT Authentication • Socket.IO • Backend Architecture**
+`Node.js` · `Express.js` · `REST APIs` · `JWT` · `Socket.IO`
 
-### 🗄️ Database & Storage
+### Database & Infrastructure
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb,docker,cloudflare"/>
 </p>
 
-**MongoDB • Mongoose • Cloudinary**
+`MongoDB` · `Mongoose` · `Cloudinary` · `Docker`
 
-### 🤖 AI & Generative AI
-
-**Google Gemini API • Generative AI • Prompt Engineering • AI Integration • AI Summarization • AI Translation • AI Code Review • Sentiment Analysis**
-
-### 📡 Real-Time Technologies
-
-**Socket.IO • WebRTC • RTCPeerConnection • Audio/Video Calling • Screen Sharing • Real-Time Signaling • Collaborative Applications**
-
-### 🧰 Tools & Technologies
+### Development Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
 </p>
 
-**Git • GitHub • Docker • VS Code • Linux • Postman • Monaco Editor • PDFKit • Cloudinary**
+`Git` · `GitHub` · `VS Code` · `Linux` · `Postman`
 
 ---
 
-## 🧠 Core Computer Science
+# `03` — WHAT I BUILD
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-00897B?style=for-the-badge"/>
-</p>
+<table>
+<tr>
 
-**DSA • OOP • DBMS • Operating Systems • Computer Networks • REST Architecture • Authentication • Real-Time Systems**
+<td width="33%" align="center">
+
+## WEB
+
+Modern full-stack applications with scalable frontend and backend architecture.
+
+</td>
+
+<td width="33%" align="center">
+
+## BACKEND
+
+REST APIs, authentication, databases, business logic and production-ready services.
+
+</td>
+
+<td width="33%" align="center">
+
+## REAL-TIME
+
+Communication systems using Socket.IO, WebRTC and real-time signaling.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### Backend Engineering
+
+* REST API architecture
+* JWT authentication
+* Authorization
+* MongoDB & Mongoose
+* API integration
+* Backend security
+* Error handling
+* Scalable architecture
+
+</td>
+
+<td width="50%">
+
+### Real-Time Engineering
+
+* Socket.IO
+* WebRTC
+* RTCPeerConnection
+* Audio / Video Calling
+* Screen Sharing
+* Real-Time Signaling
+* Collaborative Applications
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### AI Applications
+
+* Google Gemini API
+* Generative AI
+* Prompt Engineering
+* AI Integration
+* AI Summarization
+* AI Translation
+* Sentiment Analysis
+* AI Code Review
+
+</td>
+
+<td width="50%">
+
+### Computer Science
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
+* REST Architecture
+* Authentication
+* System Design
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
+# `04` — FEATURED PROJECTS
 
-* ☕ **Advanced Java & Object-Oriented Programming**
-* 🧠 **Data Structures & Algorithms**
-* ⚙️ **Advanced Backend Development**
-* 🏗️ **System Design & Scalable Architecture**
-* 🤖 **Generative AI & AI Application Development**
-* 🐳 **Docker & Application Deployment**
-* 🔐 **Backend Security & Authentication**
+### `BaatCheet`
 
----
+**Real-Time Chat Application**
 
-## 🎯 What I'm Looking For
+A full-stack real-time communication platform built with the MERN stack.
 
-I'm currently open to opportunities where I can contribute to real-world software while continuing to grow as an engineer.
+**Stack**
 
-**Interested in:**
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT`
 
-`Full-Stack Development` • `Java Development` • `Backend Engineering` • `Software Engineering` • `AI Applications`
+**Highlights**
 
----
+* Real-time messaging
+* JWT authentication
+* User authentication
+* Online/offline communication
+* Image messaging
+* Socket.IO based communication
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/sumancpp">
-    <img src="https://img.shields.io/badge/GitHub-sumancpp-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suman-maity-b84879292/">
-    <img src="https://img.shields.io/badge/LinkedIn-Suman%20Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:suuman.maity@gmail.com">
-    <img src="https://img.shields.io/badge/Email-suuman.maity%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/sumancpp/RealTimeChat">View Repository →</a>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumancpp&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+### `AuraVision`
 
-<h3 align="center">✨ Build • Learn • Solve • Improve ✨</h3>
+**Accessibility-Focused Application**
 
-<p align="center">
-  <i>Turning ideas into software and continuously improving as an engineer.</i>
-</p>
+A multi-feature application designed to make technology more accessible through AI, speech and computer vision.
+
+**Stack**
+
+`React Native` `Expo` `ONNX` `YOLO` `Gemini` `Speech Recognition`
+
+**Highlights**
+
+* Text-to-image generation
+* Offline AI chatbot
+* Text-to-sign language
+* Sign-to-text
+* Morse communication
+* Multilingual accessibility
+
+---
+
+### `AI Resume ATS`
+
+**AI-Powered Resume Analysis Platform**
+
+A web application that analyzes resumes and helps evaluate them against ATS-style requirements.
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB` `AI`
+
+**Highlights**
+
+* Resume upload
+* PDF parsing
+* Skill extraction
+* ATS analysis
+* Dashboard visualization
+* Resume insights
+
+---
+
+# `05` — CURRENTLY LEARNING
+
+```text
+Advanced Java
+      ↓
+Data Structures & Algorithms
+      ↓
+Advanced Backend Development
+      ↓
+System Design
+      ↓
+Scalable Architecture
+      ↓
+Backend Security
+      ↓
+Docker & Deployment
+      ↓
+Generative AI Applications
+```
+
+---
+
+# `06` — ENGINEERING PHILOSOPHY
+
+<div align="center">
+
+### BUILD → BREAK → DEBUG → LEARN → IMPROVE
+
+</div>
+
+I believe strong developers are created by solving real problems.
+
+Instead of only learning technologies theoretically, I prefer to **build applications, encounter problems, debug them, understand the underlying concepts and improve the implementation**.
+
+---
+
+# `07` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumancpp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumancpp&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sumancpp&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+# `08` — CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumancpp&hide_border=true&theme=github-compact&area=true"/>
+
+</div>
+
+---
+
+# `09` — CAREER
+
+I'm currently open to opportunities where I can contribute to real-world software and continue growing as an engineer.
+
+### Interested In
+
+`Full-Stack Development`
+
+`Backend Engineering`
+
+`Java Development`
+
+`Software Engineering`
+
+`AI Applications`
+
+---
+
+# `10` — CONNECT
+
+<div align="center">
+
+<a href="https://github.com/sumancpp">
+<img src="https://img.shields.io/badge/GitHub-sumancpp-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/suman-maity-b84879292/">
+<img src="https://img.shields.io/badge/LinkedIn-Suman%20Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:suuman.maity@gmail.com">
+<img src="https://img.shields.io/badge/Email-suuman.maity-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `BUILD • LEARN • SOLVE • IMPROVE`
+
+<sub>Turning ideas into software, one problem at a time.</sub>
+
+</div>
